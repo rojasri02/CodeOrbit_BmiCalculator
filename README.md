@@ -114,8 +114,6 @@ The calculated BMI value is displayed along with its corresponding category.
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### BMI Calculator Screen
 
 ![BMI Calculator Screen](Screenshots/home.png)
