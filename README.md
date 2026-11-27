@@ -120,7 +120,7 @@ The calculated BMI value is displayed along with its corresponding category.
 
 ### BMI Result Screen
 
-![BMI Result Screen](Screenshots/Result page.png)
+![BMI Result Screen](Screenshots/result page.png)
 
 > Replace the screenshot filenames above with the actual screenshots of your application.
 
