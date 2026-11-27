@@ -114,13 +114,15 @@ The calculated BMI value is displayed along with its corresponding category.
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### BMI Calculator Screen
 
-![BMI Calculator Screen](Screenshots/home page.png)
+![BMI Calculator Screen](Screenshots/home.png)
 
 ### BMI Result Screen
 
-![BMI Result Screen](Screenshots/result page.png)
+![BMI Result Screen](Screenshots/result.png)
 
 > Replace the screenshot filenames above with the actual screenshots of your application.
 
